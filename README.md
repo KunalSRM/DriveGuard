@@ -2,7 +2,6 @@
 Distracted Driver detection project
 Driver Guard – Real-Time Driver Monitoring System
 📌 Overview
-
 Driver Guard is a deep learning–based project that detects and classifies driver activities in real time using computer vision.
 The system helps improve road safety by identifying unsafe behaviors (e.g., using phone, drinking, drowsiness) and providing alerts.
 
